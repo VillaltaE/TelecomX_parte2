@@ -1,5 +1,5 @@
 # TelecomX_LATAM_parte2
-Challenge del curso de DataScience con Python de Alura Latam
+Challenge del curso de DataScience con Python de Alura Latam, parte 2 Maching Learning.
 
 ## **Introducción.**
 

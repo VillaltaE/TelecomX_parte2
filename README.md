@@ -13,7 +13,7 @@ para  de ser posible que detectemos cual es la causa de que los clientes se este
 * import matplotlib.pyplot as plt
 * import seaborn as sns
 * import numpy as np
-* Se debe dar click en cada una de las celdas del documento Googlecolab
+* En Googlecolab darle click en boton 'Ejecutar todas'
 
 
 ## **Limpieza y tratamiento de datos**
